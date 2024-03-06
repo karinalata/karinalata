@@ -4,7 +4,7 @@ I 💗 automation and hiking.
 
 
 
-## ✉️ Connect with me:
+## ✉️ Connect with via:
 
 
 <p align="center">
