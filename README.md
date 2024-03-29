@@ -1,5 +1,6 @@
 ### Hi there!!! 👋
 My name is Karina Latasiewicz, I'm a Computer Science Student @ UIChicago and am currently learning C/C++. 
+I also am an Intern at Packaging Corporations of America, I work on the network team, as well as ZScaler.
 I 💗 automation and hiking.
 
 
