@@ -1,19 +1,19 @@
-### Hi there!!! 👋
-My name is Karina Latasiewicz, I'm a Computer Science Student @ UIChicago and am currently learning C/C++. 
-I also am an Intern at Packaging Corporations of America, I work on the network team, as well as ZScaler.
-I 💗 automation and hiking.
+# Hi there!!! 👋
 
+My name is Karina Latasiewicz, a Computer Science Student at UIChicago, passionate about automation and hiking.
 
+## About Me
+- Currently learning C/C++ and involved in WICS (Women In Computer Science) where I'm running for the Outreach Chair position.
+- Intern at Packaging Corporations of America, working on the network team and ZScaler Team.
 
-## ✉️ Connect with me via:
+## Connect with me via:
+- [LinkedIn](https://linkedin.com/in/karina-latasiewicz)
+- Email: karinalatasiewicz@gmail.com
 
+## Skills
+- Proficient in C/C++
+- Automation enthusiast
+- ZScaler
+- Project Management
 
-<p align="center">
- <a href="https://linkedin.com/in/karina-latasiewicz" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="mailto:karinalatasiewicz@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
-</p>
-
-<br />
-
-
-
+Feel free to reach out to me for any inquiries or collaboration opportunities!
