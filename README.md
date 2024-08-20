@@ -14,6 +14,6 @@ My name is Karina Latasiewicz, a Computer Science Student at UIChicago, passiona
 - Proficient in C/C++
 - Automation enthusiast
 - ZScaler
-- Project Management
+- WireShark
 
 Feel free to reach out to me for any inquiries or collaboration opportunities!
